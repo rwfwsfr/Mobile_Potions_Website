@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+⚗️🌐️ The official source repository for the website of the Mobile Potions video game project, an open source alternative/recreation of the Breaktime Studios game Pocket Potions.
